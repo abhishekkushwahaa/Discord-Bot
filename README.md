@@ -17,8 +17,8 @@ Here Discord Bot is Live: [Link](https://discord.gg/eTgsuh7J)
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/shorturl-bot.git
-    cd shorturl-bot
+    git clone https://github.com/abhishekkushwahaa/Discord-Bot.git
+    cd Discord-Bot
 
 ## Collaboration
 
